@@ -35,7 +35,7 @@ The dashboard was built entirely in **Microsoft Excel** using structured data mo
 
 ### 🗺️ Main Dashboard — PK Foods Price Intelligence
 
-![PK Foods Dashboard](Pk_Food_project_dashboard.png)
+![PK Foods Dashboard](https://github.com/INNOCENT256-UG/Excel-/blob/main/Pk_Food%20project%20dashboard.png)
 
 > The main dashboard shows KPI cards (Total Records, Revenue, Avg Price/Kg), a revenue breakdown by city, and average price by category — all in a dark-themed, professional layout.
 
