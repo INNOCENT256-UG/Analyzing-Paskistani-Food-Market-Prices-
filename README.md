@@ -15,6 +15,14 @@ I'm a data analyst building a strong technical foundation in **Excel**, **SQL**,
 - 🎯 Goal: Become a confident, job-ready **Junior Data Analyst**
 - 📚 Always learning and improving through hands-on projects
 
+
+📊 PK Food Price Intelligence Dashboard
+
+This project analyzes food price patterns across cities using Excel dashboards and statistical analysis.
+
+#The goal is to identify **price volatility, regional differences, and key performance indicators in the food market.**
+[View Dashboard Image](Pk_Food project dashboard.png)
+---
 ---
 
 ## 🛠️ Tools & Technologies
