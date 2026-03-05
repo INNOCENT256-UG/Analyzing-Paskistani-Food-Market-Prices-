@@ -16,12 +16,14 @@ I'm a data analyst building a strong technical foundation in **Excel**, **SQL**,
 - 📚 Always learning and improving through hands-on projects
 
 
+
+
 📊 PK Food Price Intelligence Dashboard
 
 This project analyzes food price patterns across cities using Excel dashboards and statistical analysis.
 
-#The goal is to identify **price volatility, regional differences, and key performance indicators in the food market.**
-[View Dashboard Image](Pk_Food project dashboard.png)
+The goal is to identify **price volatility, regional differences, and key performance indicators in the food market.**
+[Pk_Food project dashboard.png](Pk_Food project dashboard.png)
 ---
 ---
 
