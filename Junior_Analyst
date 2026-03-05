@@ -1,0 +1,32 @@
+# Data Analysis Study Workflow
+
+## Goal
+Be job‑ready for a junior **data** analyst role in 6–9 months.
+
+## Weekly Routine
+| Day      | Focus Area                 | Main Tasks                                                                 |
+|---------|----------------------------|----------------------------------------------------------------------------|
+| Monday  | Excel & Statistics         | Practice formulas, charts, logical IF/AND/OR, basic descriptive stats.    |
+| Tuesday | SQL                        | Learn SELECT, WHERE, GROUP BY, JOIN; solve 10–20 query exercises.         |
+| Wednesday | Python (pandas)         | Load CSVs, clean data, handle missing values, simple plots.               |
+| Thursday | BI / Dashboards          | Build or improve a dashboard in Power BI/Tableau/Excel.                   |
+| Friday  | GitHub & Review           | Push work to GitHub, write README, reflect on what you learned.           |
+| Saturday | Project Work / Practice  | Work on a small project using real data (Excel/SQL/Python).               |
+| Sunday  | Rest or Light Review      | Re‑watch tough topics, light practice only.                               |
+
+## Daily Flow (2 hours example)
+1. 10 min – Review notes from yesterday.
+2. 70 min – Main learning (course/video + hands‑on practice).
+3. 30 min – Mini‑task (one Excel file, a few SQL queries, or one plot).
+4. 10 min – Write a short summary of what you learned.
+
+## Projects To Build
+- Excel: Sales or price analysis with pivot tables and charts.
+- SQL: Query a sample sales or HR database, answer business questions.
+- Python: Clean a messy dataset and visualize key trends.
+- BI: Create an interactive dashboard and explain your insights.
+
+## GitHub Usage
+- One repository per project.
+- Commit small changes often with clear messages.
+- Update README with: problem, data, steps, and key findings.
