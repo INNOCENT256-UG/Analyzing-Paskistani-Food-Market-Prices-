@@ -1,7 +1,7 @@
 # Hi there, I'm Innocent Watsala 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Data+Analyst+in+Progress;Excel+%7C+SQL+%7C+Python;Based+in+UAE+%F0%9F%87%A6%F0%9F%87%AA;Turning+raw+data+into+insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Data+Analyst+in+Progress;Excel+%7C+SQL+%7C+Python;Hope Your'e well+My Skills+ Have a nice Day+%F0%9F%87%A6%F0%9F%87%AA;Turning+raw+data+into+insights" alt="Typing SVG" />
 </div>
 
 ---
