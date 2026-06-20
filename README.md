@@ -1,20 +1,15 @@
 # Hi there, I'm Innocent Watsala 👋
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Data+Analyst+in+Progress;Excel+%7C+SQL+%7C+Python;Hope Your'e well+My Skills+ Have a nice Day+%F0%9F%87%A6%F0%9F%87%AA;Turning+raw+data+into+insights" alt="Typing SVG" />
-</div>
-
----
-
 ## 👨‍💻 About Me
 
-I'm a data analyst building a strong technical foundation in **Excel**, **SQL**, and **Python**, with a specialization in **data cleaning** and **exploratory data analysis (EDA)**.
+I am an aspiring **Junior Data Analyst** passionate about turning raw data into meaningful insights. I am building a strong foundation in **Excel**, **SQL**, and **Python**, with a focus on **data cleaning**, **data analysis**, and **data visualization**.
 
-- 🌍 Based in **United Arab Emirates**
-- 📊 Currently focused on: Data cleaning, Excel analytics, and hospital data analysis
-- 🎯 Goal: Become a confident, job-ready **Junior Data Analyst**
-- 📚 Always learning and improving through hands-on projects
-
+- 🌍 Based in Dubai, United Arab Emirates
+- 📊 Currently developing skills in Excel analytics, SQL querying, Python programming, and Exploratory Data Analysis (EDA)
+- 🏥 Working on real-world datasets, including healthcare and business data
+- 🎯 Career Goal: Transition into a Data Analyst role and contribute to data-driven decision-making
+- 📚 Continuously learning through hands-on projects, courses, and practical problem-solving
+- 🚀 Open to entry-level opportunities, internships, freelance projects, and collaborations
 
 # 🇵🇰 PK Foods Price Intelligence Dashboard | 2025
 
